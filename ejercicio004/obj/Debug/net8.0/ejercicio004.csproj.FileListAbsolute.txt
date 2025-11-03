@@ -1,0 +1,15 @@
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\bin\Debug\net8.0\ejercicio004.exe
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\bin\Debug\net8.0\ejercicio004.deps.json
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\bin\Debug\net8.0\ejercicio004.runtimeconfig.json
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\bin\Debug\net8.0\ejercicio004.dll
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\bin\Debug\net8.0\ejercicio004.pdb
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.AssemblyInfoInputs.cache
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.AssemblyInfo.cs
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.csproj.CoreCompileInputs.cache
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.sourcelink.json
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.dll
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\refint\ejercicio004.dll
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.pdb
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ejercicio004.genruntimeconfig.cache
+C:\Users\eirik.rosete\Documents\Personal\sistemas-distribuidos\ejercicio004\obj\Debug\net8.0\ref\ejercicio004.dll

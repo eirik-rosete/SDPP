@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\Documents\\eirik\\uneatlantico\\sistemas-distribuidos\\ejercicios\\ejercicio004\\ejercicio004.csproj": {}
+    "C:\\Users\\eirik.rosete\\Documents\\Personal\\sistemas-distribuidos\\ejercicio004\\ejercicio004.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hecto\\Documents\\eirik\\uneatlantico\\sistemas-distribuidos\\ejercicios\\ejercicio004\\ejercicio004.csproj": {
+    "C:\\Users\\eirik.rosete\\Documents\\Personal\\sistemas-distribuidos\\ejercicio004\\ejercicio004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\Documents\\eirik\\uneatlantico\\sistemas-distribuidos\\ejercicios\\ejercicio004\\ejercicio004.csproj",
+        "projectUniqueName": "C:\\Users\\eirik.rosete\\Documents\\Personal\\sistemas-distribuidos\\ejercicio004\\ejercicio004.csproj",
         "projectName": "ejercicio004",
-        "projectPath": "C:\\Users\\hecto\\Documents\\eirik\\uneatlantico\\sistemas-distribuidos\\ejercicios\\ejercicio004\\ejercicio004.csproj",
-        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\Documents\\eirik\\uneatlantico\\sistemas-distribuidos\\ejercicios\\ejercicio004\\obj\\",
+        "projectPath": "C:\\Users\\eirik.rosete\\Documents\\Personal\\sistemas-distribuidos\\ejercicio004\\ejercicio004.csproj",
+        "packagesPath": "C:\\Users\\eirik.rosete\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eirik.rosete\\Documents\\Personal\\sistemas-distribuidos\\ejercicio004\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eirik.rosete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

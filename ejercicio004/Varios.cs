@@ -8,7 +8,12 @@ namespace ejercicio004
 {
     public class Varios
     {
-        private int rangoDeNumeros = 30;
+        private int rangoDeNumeros;
+
+        public Varios() 
+        {
+            rangoDeNumeros = 30;
+        }
 
         public static int[] MostrarPrimos(int rangoDeNumeros)
         {
@@ -37,6 +42,17 @@ namespace ejercicio004
 
             return primos;
         }
+
+        public void ImprimirPrimos()
+        {
+            int[] primos = MostrarPrimos(rangoDeNumeros);
+            
+            for (int i = 0; i < primos.Length; i++) 
+            {
+                Console.WriteLine($"El número {primos[i]} es primo");
+            }
+        }
+
         public static int[] MostrarNoPrimos(int rangoDeNumeros, int[] primos)
         {
             int[] noPrimos = new int[rangoDeNumeros - primos.Length];
@@ -58,6 +74,17 @@ namespace ejercicio004
 
             return noPrimos;
         }
+        public void ImprimirNoPrimos()
+        {
+            int[] primos = MostrarPrimos(rangoDeNumeros);
+            int[] noPrimos = MostrarNoPrimos(rangoDeNumeros, primos);
+
+            for (int i = 0; i < noPrimos.Length; i++)
+            {
+                Console.WriteLine($"El número {noPrimos[i]} no es primo");
+            }
+        }
+
         private static bool EsPrimo(int numero)
         {
             if (numero <= 1)
