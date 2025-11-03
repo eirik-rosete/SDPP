@@ -1,0 +1,15 @@
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\bin\Debug\net8.0\ejercicio003.exe
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\bin\Debug\net8.0\ejercicio003.deps.json
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\bin\Debug\net8.0\ejercicio003.runtimeconfig.json
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\bin\Debug\net8.0\ejercicio003.dll
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\bin\Debug\net8.0\ejercicio003.pdb
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.AssemblyInfoInputs.cache
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.AssemblyInfo.cs
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.sourcelink.json
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.dll
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\refint\ejercicio003.dll
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.pdb
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ejercicio003.genruntimeconfig.cache
+C:\Users\hecto\Documents\eirik\uneatlantico\sistemas-distribuidos\ejercicios\ejercicio003\obj\Debug\net8.0\ref\ejercicio003.dll
